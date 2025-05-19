@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Models – Hands-On Labs
 
-This repository contains my hands-on work from a machine learning course, where I implemented a variety of ML models using real-world datasets. Each notebook covers the full pipeline: data preprocessing, model training, evaluation, and visualization where applicable.
+This repository contains my hands-on work from a machine learning course at National Telecommunication Institute (NTI) as a part of the big data engineering track , where I implemented a variety of ML models using real-world datasets. Each notebook covers the full pipeline: data preprocessing, model training, evaluation, and visualization where applicable.
 
 > ⚙️ All projects are written in Python, primarily using **scikit-learn**, **matplotlib**, and **seaborn**. One notebook demonstrates usage with **PySpark**.
 
